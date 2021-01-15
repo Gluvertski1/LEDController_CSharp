@@ -1,0 +1,22 @@
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\LED Controller.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\LED Controller.csproj.GenerateResource.Cache
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\NationalInstruments.DAQmx.dll
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\NationalInstruments.DAQmx.xml
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\LED Controller\LED Controller\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\LED Controller\LED Controller\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\LED Controller\LED Controller\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\LED Controller\LED Controller\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\LED Controller\LED Controller\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\LED Controller\LED Controller\bin\Debug\NationalInstruments.DAQmx.dll
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\LED Controller\LED Controller\bin\Debug\NationalInstruments.DAQmx.xml
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\LED Controller\LED Controller\obj\Debug\LED Controller.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\LED Controller\LED Controller\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\LED Controller\LED Controller\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\LED Controller\LED Controller\obj\Debug\LED Controller.csproj.GenerateResource.Cache
